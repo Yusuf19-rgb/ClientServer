@@ -64,5 +64,14 @@ ServerSocket.close()
 
 
 
+
+
+
+
+
+
+
 #decode dan endoce paket lebih kecil
-# format digunakan untuk mengecek mana user dan pasword
+#format digunakan untuk mengecek mana user dan pasword, atau mengecek string
+#HashTable menggunakan arry sebagai penyimpanan, dan berfungsi sebagai
+#struktur data dimana operasi penyisipan dan pencarianndata sangat cepat
